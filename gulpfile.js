@@ -36,6 +36,7 @@ function browsersync() {
 		ghostMode: { clicks: false },
 		notify: false,
 		online: true,
+    browser: "google chrome",
 		// tunnel: 'yousutename', // Attempt to use the URL https://yousutename.loca.lt
 	})
 }
